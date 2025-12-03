@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Cartas-main.slnx"
+    "dotnet.defaultSolution": "Cartas.slnx"
 }
